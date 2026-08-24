@@ -1,0 +1,29 @@
+#traffic {
+    height: 250px;
+    width: 100px;
+    background-color: black;
+    padding: 15px;
+}
+
+#div1 {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+#div2 {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: green;
+    margin-bottom: 10px;
+}
+
+#div3 {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background-color: orange;
+}
