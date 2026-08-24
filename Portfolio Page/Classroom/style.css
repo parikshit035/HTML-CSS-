@@ -1,0 +1,36 @@
+h1 {
+    color:rgb(2, 2, 2);
+}
+p {
+    color:rgb(16, 29, 24);
+}
+body {
+    background-color: rgb(248, 245, 245);
+}
+button {
+    background-color:black;
+    color: antiquewhite;
+} 
+#One {
+
+    
+    color: aquamarine;
+}
+#Two {
+    color:darkgreen;
+}
+#Three {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#Four {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h1 {
+    font-weight: 300;
+}
+#h1 {
+    font-weight: lighter;
+}
+
+ 
