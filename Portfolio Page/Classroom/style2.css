@@ -1,0 +1,16 @@
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+#div1 {
+    background-color: pink;
+}
+#div2 {
+    background-color: rgb(126, 17, 9);
+}
+#div3 {
+    background-color: greenyellow;
+}
