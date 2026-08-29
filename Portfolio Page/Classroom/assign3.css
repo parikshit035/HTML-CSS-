@@ -1,4 +1,4 @@
-ul {
+.navbar {
     background-color: pink;
     display: flex;
     justify-content: space-evenly;
@@ -11,4 +11,17 @@ a {
 li {
     list-style-type: none;
     display: inline;
+}
+.outerdiv {
+    height: 400px;
+    width:400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innerdiv {
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
 }
